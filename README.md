@@ -1,8 +1,8 @@
 # Free-style and Fast 3D Portrait Synthesis
 
-[Tianxiang Ma](https://tianxiangma.github.io/), [Kang Zhao](https://kangzhao2.github.io/), Jianxin Sun, Jing Dong, Tieniu Tan
+[Tianxiang Ma](https://tianxiangma.github.io/)<sup>1,2</sup>, [Kang Zhao](https://kangzhao2.github.io/)<sup>3</sup>, Jianxin Sun<sup>1,2</sup>, Jing Dong<sup>2</sup>, Tieniu Tan<sup>2</sup>
 
-School of Artificial Intelligence, UCAS &nbsp; &nbsp; CRIPAC & NLPR, CASIA &nbsp; &nbsp; Alibaba Group
+<sup>1</sup>School of Artificial Intelligence, UCAS &nbsp; <sup>2</sup>CRIPAC & NLPR, CASIA &nbsp; <sup>3</sup>Alibaba Group
 
 ### [paper](https://arxiv.org/pdf/2306.15419.pdf)
 
